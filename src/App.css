@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.Tile2 {
+  width: 200px;
+  height: 200px;
+  font-size: 64pt;
+  border: 2px solid #aaa;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  float: left;
+  cursor: pointer;
+  }
+
+  .Tile {
+    height: 200px;
+    font-size: 64pt;
+    border: 2px solid #aaa;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    cursor: pointer;
+    }
